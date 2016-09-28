@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Caixa Mobile</string>
+    <string name="busca_cliente">Cliente Teste</string>
+    <string name="botao_historico">Historico</string>
+    <string name="saldo">Saldo: R$ 895,56</string>
+
+</resources>
